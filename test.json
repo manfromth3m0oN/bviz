@@ -1,7 +1,16 @@
 {
-	"spans": [{
-		"start": "1234",
-		"end": "5432",
-		"source": "service1"
-	}]
+	"spans": [
+		{
+			"start": "1234",
+			"end": "5432",
+			"source": "service1",
+			"msg": "message 1"
+		},
+		{
+			"start": "2234",
+			"end": "5432",
+			"source": "service2",
+			"msg": "message 2"
+		}
+	]
 }
