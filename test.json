@@ -1,0 +1,7 @@
+{
+	"spans": [{
+		"start": "1234",
+		"end": "5432",
+		"source": "service1"
+	}]
+}
